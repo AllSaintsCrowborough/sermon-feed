@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+		<title>All Saints Church Crowborough</title>
+		<description>All Saints Church Crowborough Media</description>
+		<link>https://www.allsaintscrowborough.org</link>
+		<generator>Hubb, www.hubb.digital</generator>
+		<language>en</language>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:owner>
+			<itunes:name>Adrian Bailey</itunes:name>
+			<itunes:email>office@allsaintscrowborough.org</itunes:email>
+		</itunes:owner>
+		<item>
+			<title>[Advent and Christmas 2024] True joy</title>
+			<description>Advent and Christmas 2024</description>
+			<guid isPermaLink="false">m_334157</guid>
+			<pubDate>Sun, 08 Dec 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=334157&amp;fullpage=True</link>
+			<itunes:summary>Advent and Christmas 2024</itunes:summary>
+			<itunes:author>Pete Winstone</itunes:author>
+			<itunes:duration>00:26:34</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/c5892dfc-a4d9-4521-9bfd-7bd773236b74.mp3" type="audio/mpeg" length="13824549" />
+		</item>
+		<item>
+			<title>[Advent and Christmas 2024] The scroll and the lamb</title>
+			<description>Advent and Christmas 2024</description>
+			<guid isPermaLink="false">m_334031</guid>
+			<pubDate>Sun, 08 Dec 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=334031&amp;fullpage=True</link>
+			<itunes:summary>Advent and Christmas 2024</itunes:summary>
+			<itunes:author>Steve Rees</itunes:author>
+			<itunes:duration>00:20:08</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/4779401b-e580-42de-986c-0e7011192d24.mp3" type="audio/mpeg" length="10022472" />
+		</item>
+		<item>
+			<title>[Advent and Christmas 2024] Jesus...</title>
+			<description>Advent and Christmas 2024</description>
+			<guid isPermaLink="false">m_333734</guid>
+			<pubDate>Sun, 01 Dec 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=333734&amp;fullpage=True</link>
+			<itunes:summary>Advent and Christmas 2024</itunes:summary>
+			<itunes:author>Matt Malone</itunes:author>
+			<itunes:duration>00:22:24</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/3e5be842-e440-4022-be38-0a7b837d8667.mp3" type="audio/mpeg" length="13682301" />
+		</item>
+		<item>
+			<title>[Advent and Christmas 2024] Behold our God. The throne in heaven</title>
+			<description>Advent and Christmas 2024</description>
+			<guid isPermaLink="false">m_333733</guid>
+			<pubDate>Sun, 01 Dec 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=333733&amp;fullpage=True</link>
+			<itunes:summary>Advent and Christmas 2024</itunes:summary>
+			<itunes:author>Nick Ashton</itunes:author>
+			<itunes:duration>00:24:52</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/3e6d2937-0afa-4c90-a5ff-133f19a62388.mp3" type="audio/mpeg" length="12876608" />
+		</item>
+		<item>
+			<title>[Words of Life] Words of Life - Joy</title>
+			<description>Words of Life</description>
+			<guid isPermaLink="false">m_333451</guid>
+			<pubDate>Sun, 24 Nov 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=333451&amp;fullpage=True</link>
+			<itunes:summary>Words of Life</itunes:summary>
+			<itunes:author>Adam Thrift</itunes:author>
+			<itunes:duration>00:22:16</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/11918689-28db-4ffe-bef5-5b8358bdd155.mp3" type="audio/mpeg" length="13188333" />
+		</item>
+		<item>
+			<title>[Exodus] Worshipping and whingeing</title>
+			<description>Exodus</description>
+			<guid isPermaLink="false">m_333344</guid>
+			<pubDate>Sun, 24 Nov 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=333344&amp;fullpage=True</link>
+			<itunes:summary>Exodus</itunes:summary>
+			<itunes:author>Steve Rees</itunes:author>
+			<itunes:duration>00:19:56</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/9e9946f1-b010-4451-bf23-d195c0614bc6.mp3" type="audio/mpeg" length="9578144" />
+		</item>
+		<item>
+			<title>[Words of Life] Words of Life - Authority</title>
+			<description>Words of Life</description>
+			<guid isPermaLink="false">m_333053</guid>
+			<pubDate>Sun, 17 Nov 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=333053&amp;fullpage=True</link>
+			<itunes:summary>Words of Life</itunes:summary>
+			<itunes:author>Adam Thrift</itunes:author>
+			<itunes:duration>00:27:52</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/e627db1c-0f39-4d87-bb56-e74feec7e22d.mp3" type="audio/mpeg" length="16435800" />
+		</item>
+		<item>
+			<title>[Exodus] Deliverance from the enemy</title>
+			<description>Exodus</description>
+			<guid isPermaLink="false">m_333023</guid>
+			<pubDate>Sun, 17 Nov 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=333023&amp;fullpage=True</link>
+			<itunes:summary>Exodus</itunes:summary>
+			<itunes:author>Pete Winstone</itunes:author>
+			<itunes:duration>00:22:23</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/21878366-28ad-4b52-a0b0-386de41a88ef.mp3" type="audio/mpeg" length="14357040" />
+		</item>
+		<item>
+			<title>[Matthew] Our Lifestyle: Oaths, retaliation and enemy love</title>
+			<description>Matthew</description>
+			<guid isPermaLink="false">m_332693</guid>
+			<pubDate>Sun, 10 Nov 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=332693&amp;fullpage=True</link>
+			<itunes:summary>Matthew</itunes:summary>
+			<itunes:author>Steve Rees</itunes:author>
+			<itunes:duration>00:23:32</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/c0ce2e31-246a-4962-85a0-ca0350c99045.mp3" type="audio/mpeg" length="12633831" />
+		</item>
+		<item>
+			<title>[Misc] Our refuge and strength</title>
+			<description>Remembrance Sunday 2024</description>
+			<guid isPermaLink="false">m_332649</guid>
+			<pubDate>Sun, 10 Nov 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=332649&amp;fullpage=True</link>
+			<itunes:summary>Remembrance Sunday 2024</itunes:summary>
+			<itunes:author>Nick Ashton</itunes:author>
+			<itunes:duration>00:20:24</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/055cab1f-e655-4548-8cfd-ddfef34b114f.mp3" type="audio/mpeg" length="11275633" />
+		</item>
+		<item>
+			<title>[Matthew] Our lifestyle: anger, lust and marriage</title>
+			<description>Matthew</description>
+			<guid isPermaLink="false">m_332349</guid>
+			<pubDate>Sun, 03 Nov 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=332349&amp;fullpage=True</link>
+			<itunes:summary>Matthew</itunes:summary>
+			<itunes:author>Steve Rees</itunes:author>
+			<itunes:duration>00:29:57</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/3064f34c-70ec-4457-827c-7a9807e5df66.mp3" type="audio/mpeg" length="14267418" />
+		</item>
+		<item>
+			<title>[Exodus] A meal to remember</title>
+			<description>Exodus</description>
+			<guid isPermaLink="false">m_332347</guid>
+			<pubDate>Sun, 03 Nov 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=332347&amp;fullpage=True</link>
+			<itunes:summary>Exodus</itunes:summary>
+			<itunes:author>Pete Winstone</itunes:author>
+			<itunes:duration>00:26:38</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/1f51e496-ebf9-4d41-8bfe-9b2f1f2f5d79.mp3" type="audio/mpeg" length="14163863" />
+		</item>
+		<item>
+			<title>[Matthew] Our lifestyle: follow the Old Testament in Jesus</title>
+			<description>Matthew</description>
+			<guid isPermaLink="false">m_331978</guid>
+			<pubDate>Sun, 27 Oct 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=331978&amp;fullpage=True</link>
+			<itunes:summary>Matthew</itunes:summary>
+			<itunes:author>Adam Thrift</itunes:author>
+			<itunes:duration>00:23:44</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/c81d8fdb-d727-4632-a952-a6e1d48fdfac.mp3" type="audio/mpeg" length="12838995" />
+		</item>
+		<item>
+			<title>[Exodus] A night to remember</title>
+			<description>Exodus</description>
+			<guid isPermaLink="false">m_331977</guid>
+			<pubDate>Sun, 27 Oct 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=331977&amp;fullpage=True</link>
+			<itunes:summary>Exodus</itunes:summary>
+			<itunes:author>Nick Ashton</itunes:author>
+			<itunes:duration>00:24:52</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/82fddd91-d42a-4a21-9fe3-1de07bfa8bc1.mp3" type="audio/mpeg" length="12651338" />
+		</item>
+		<item>
+			<title>[Matthew] Our character: salt and light</title>
+			<description>Matthew</description>
+			<guid isPermaLink="false">m_331760</guid>
+			<pubDate>Sun, 20 Oct 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=331760&amp;fullpage=True</link>
+			<itunes:summary>Matthew</itunes:summary>
+			<itunes:author>Adam Thrift</itunes:author>
+			<itunes:duration>00:22:23</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/ef4b778a-19a1-493b-a460-aaa28030c788.mp3" type="audio/mpeg" length="13363845" />
+		</item>
+		<item>
+			<title>[Misc] Prom Praise Combined Service SR20Oct24.mp3</title>
+			<description>Miscellaneous Prom Praise Combined Service 2024</description>
+			<guid isPermaLink="false">m_331617</guid>
+			<pubDate>Sun, 20 Oct 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=331617&amp;fullpage=True</link>
+			<itunes:summary>Miscellaneous Prom Praise Combined Service 2024</itunes:summary>
+			<itunes:author>Steve Rees</itunes:author>
+			<itunes:duration>00:24:07</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/918b51fe-9a76-4e20-a5ec-dc4ab1ab853a.mp3" type="audio/mpeg" length="12990219" />
+		</item>
+		<item>
+			<title>[Misc] How can I know the truth?</title>
+			<description>Baptism Service</description>
+			<guid isPermaLink="false">m_331433</guid>
+			<pubDate>Sun, 13 Oct 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=331433&amp;fullpage=True</link>
+			<itunes:summary>Baptism Service</itunes:summary>
+			<itunes:author>Nick Ashton</itunes:author>
+			<itunes:duration>00:22:53</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/a6822d8f-ac5a-4433-8206-3733a1366a90.mp3" type="audio/mpeg" length="11683389" />
+		</item>
+		<item>
+			<title>[Exodus] The Lord's might and Pharaoh's heart</title>
+			<description>Exodus</description>
+			<guid isPermaLink="false">m_331275</guid>
+			<pubDate>Sun, 13 Oct 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=331275&amp;fullpage=True</link>
+			<itunes:summary>Exodus</itunes:summary>
+			<itunes:author>Adam Thrift</itunes:author>
+			<itunes:duration>00:22:40</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/de3695ae-c5d9-4403-8ef7-feac8d61251d.mp3" type="audio/mpeg" length="10987914" />
+		</item>
+		<item>
+			<title>[Matthew] Our character: pure, peaceful and persecuted</title>
+			<description>Matthew</description>
+			<guid isPermaLink="false">m_330967</guid>
+			<pubDate>Sun, 06 Oct 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=330967&amp;fullpage=True</link>
+			<itunes:summary>Matthew</itunes:summary>
+			<itunes:author>Steve Rees</itunes:author>
+			<itunes:duration>00:31:07</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/e4d0ae90-366d-4806-8495-657c3f041702.mp3" type="audio/mpeg" length="16450284" />
+		</item>
+		<item>
+			<title>[Misc] Jesus, the Bread of life (All-Age Service)</title>
+			<description>Harvest 2024</description>
+			<guid isPermaLink="false">m_330939</guid>
+			<pubDate>Sun, 06 Oct 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=330939&amp;fullpage=True</link>
+			<itunes:summary>Harvest 2024</itunes:summary>
+			<itunes:author>Nick Ashton</itunes:author>
+			<itunes:duration>00:15:00</itunes:duration>
+      <itunes:image url="https://placehold.co/1400x1400/jpg?text=All+Saints+Crowborough+Test"/>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/fa7190c5-b8b2-40b9-abec-80c2d5a6d4b1.mp3" type="audio/mpeg" length="7789837" />
+		</item>
+	</channel>
+</rss>
