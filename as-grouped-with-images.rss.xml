@@ -14,11 +14,11 @@
 		</itunes:owner>
 		<item>
 			<title>[Advent 2024] The seals</title>
-			<description>Advent 2024 sermon series</description>
+			<description>Advent 2024 sermon series description</description>
 			<guid isPermaLink="false">m_334330</guid>
 			<pubDate>Sun, 15 Dec 2024 12:00:00 GMT</pubDate>
 			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=334330&amp;fullpage=True</link>
-			<itunes:summary>Advent and Christmas 2024</itunes:summary>
+			<itunes:summary>Advent 2024 sermon series summary</itunes:summary>
 			<itunes:author>Pete Winstone</itunes:author>
 			<itunes:duration>00:28:23</itunes:duration>
 			<itunes:image url="https://raw.githubusercontent.com/AllSaintsCrowborough/sermon-feed/refs/heads/main/revelation.jpg"/>
