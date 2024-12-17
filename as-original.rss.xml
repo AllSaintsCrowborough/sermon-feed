@@ -13,6 +13,17 @@
 			<itunes:email>office@allsaintscrowborough.org</itunes:email>
 		</itunes:owner>
 		<item>
+			<title>The seals</title>
+			<description>Advent and Christmas 2024</description>
+			<guid isPermaLink="false">m_334330</guid>
+			<pubDate>Sun, 15 Dec 2024 12:00:00 GMT</pubDate>
+			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=334330&amp;fullpage=True</link>
+			<itunes:summary>Advent and Christmas 2024</itunes:summary>
+			<itunes:author>Pete Winstone</itunes:author>
+			<itunes:duration>00:28:23</itunes:duration>
+			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/de2b5166-1ce4-4838-8a16-8a29f9d2c808.mp3" type="audio/mpeg" length="14037045" />
+		</item>
+		<item>
 			<title>True joy</title>
 			<description>Advent and Christmas 2024</description>
 			<guid isPermaLink="false">m_334157</guid>
@@ -220,17 +231,6 @@
 			<itunes:author>Steve Rees</itunes:author>
 			<itunes:duration>00:31:07</itunes:duration>
 			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/e4d0ae90-366d-4806-8495-657c3f041702.mp3" type="audio/mpeg" length="16450284" />
-		</item>
-		<item>
-			<title>Jesus, the Bread of life (All-Age Service)</title>
-			<description>Harvest 2024</description>
-			<guid isPermaLink="false">m_330939</guid>
-			<pubDate>Sun, 06 Oct 2024 12:00:00 GMT</pubDate>
-			<link>https://www.allsaintscrowborough.org/Media/Player.aspx?media_id=330939&amp;fullpage=True</link>
-			<itunes:summary>Harvest 2024</itunes:summary>
-			<itunes:author>Nick Ashton</itunes:author>
-			<itunes:duration>00:15:00</itunes:duration>
-			<enclosure url="https://s3.us-east-1.amazonaws.com/media.1901.churchinsight.com/fa7190c5-b8b2-40b9-abec-80c2d5a6d4b1.mp3" type="audio/mpeg" length="7789837" />
 		</item>
 	</channel>
 </rss>
